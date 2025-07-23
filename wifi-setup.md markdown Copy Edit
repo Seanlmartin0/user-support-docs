@@ -1,0 +1,31 @@
+# How to Connect to Office Wi-Fi
+
+This guide explains how to connect to the office Wi-Fi on Windows and macOS.
+
+---
+
+## Windows 10 / 11
+
+1. Click the Wi-Fi icon in the bottom right corner of your taskbar.  
+2. Find and select the network named **Office-WiFi**.  
+3. Click **Connect**.  
+4. Enter your username and password when prompted.  
+5. If a security prompt appears asking to trust the network, click **Yes** or **Connect**.
+
+---
+
+## macOS
+
+1. Click the Wi-Fi icon in the top menu bar.  
+2. Select the network named **Office-WiFi** from the dropdown list.  
+3. Enter your network username and password.  
+4. If a security prompt appears, accept or trust the certificate to connect.
+
+---
+
+## Troubleshooting Tips
+
+- Make sure Wi-Fi is enabled on your device.  
+- Ensure you are within range of the office network.  
+- Restart your device if you experience connection issues.  
+- Contact IT support if the problem persists.
